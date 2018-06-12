@@ -1,0 +1,5 @@
+Enviar do computador para o github: //ou seja do master para o origin
+git add --all
+git push origin master
+
+
